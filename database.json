@@ -1,0 +1,103 @@
+{
+  "version": "1.0",
+  "encoding": "UTF-8",
+  "feed": {
+    "xmlns": "http://www.w3.org/2005/Atom",
+    "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+    "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended",
+    "id": {
+      "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values"
+    },
+    "updated": {
+      "$t": "2016-07-03T22:43:56.539Z"
+    },
+    "category": [
+      {
+        "scheme": "http://schemas.google.com/spreadsheets/2006",
+        "term": "http://schemas.google.com/spreadsheets/2006#list"
+      }
+    ],
+     "title": {
+          "type": "text",
+          "$t": "Classes"
+        },
+        "content": {
+          "type": "text",
+          "$t": "word1: Mago, word2: Guerreiro, word3: Arqueiro, word4: Sacerdote, word5: Atiradora, word6: Paladino, word7: Barbaro, word8: Feiticeira, word9: Andarilho, word10: Mercenario, word11: Espiritualista, word12: Arcano, word13: Mistico, word14: Tormentador, word15: Retalhador"
+        },
+
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+          }
+        ],
+        "gsx$hint": {
+          "$t": "Classes"
+        },
+        "gsx$word1": {
+  "$t": "Mago"
+},
+"gsx$word2": {
+  "$t": "Guerreiro"
+},
+"gsx$word3": {
+  "$t": "Arqueiro"
+},
+"gsx$word4": {
+  "$t": "Sacerdote"
+},
+"gsx$word5": {
+  "$t": "Atiradora"
+},
+"gsx$word6": {
+  "$t": "Paladino"
+},
+"gsx$word7": {
+  "$t": "Barbaro"
+},
+"gsx$word8": {
+  "$t": "Feiticeira"
+},
+"gsx$word9": {
+  "$t": "Andarilho"
+},
+"gsx$word10": {
+  "$t": "Mercenario"
+},
+"gsx$word11": {
+  "$t": "Espiritualista"
+},
+"gsx$word12": {
+  "$t": "Arcano"
+},
+"gsx$word13": {
+  "$t": "Mistico"
+},
+"gsx$word14": {
+  "$t": "Tormentador"
+},
+"gsx$word15": {
+  "$t": "Retalhador"
+}
+        "gsx$word16": {
+          "$t": ""
+        },
+        "gsx$word17": {
+          "$t": ""
+        },
+        "gsx$word18": {
+          "$t": ""
+        },
+        "gsx$word19": {
+          "$t": ""
+        },
+        "gsx$word20": {
+          "$t": ""
+        },
+        "gsx$words": {
+          "$t": "Mago,Guerreiro,Arqueiro,Sacerdote,Atiradora,Paladino,Barbaro,Feiticeira,Andarilho,Mercenario,Espiritualista,Arcano,Mistico,Tormentador,Retalhador"
+        }
+      },
+      
